@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app2.dg11185.com/appm/f/d/2433</string>
+					<string>http://app2.dg11185.com/appm/f/d/2605</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>邮印象(正式服)2.3.6</string>
+				<string>主题邮局(正式服)2.4.0</string>
 			</dict>
 		</dict>
 	</array>
